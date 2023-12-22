@@ -62,7 +62,7 @@ body.side-panel-dark .side-panel .icon i {
 }
 body.show-panel {}
 body.show-panel .side-panel {
-    transform: translateX(-800px)
+    transform: translateX(-801px)
 }
 body.show-panel .side-panel .nav-btn {}
 body.show-panel .side-panel .nav-btn i {}
